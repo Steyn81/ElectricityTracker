@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsUI", "WinformsUI\WinformsUI.csproj", "{950B35ED-6DE9-466A-B26F-3BFAB76E78BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectricityTrackerLibrary", "ElectricityTrackerLibrary\ElectricityTrackerLibrary.csproj", "{8C7ED348-DB85-4841-A68D-C06BDA7CFF71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950B35ED-6DE9-466A-B26F-3BFAB76E78BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950B35ED-6DE9-466A-B26F-3BFAB76E78BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950B35ED-6DE9-466A-B26F-3BFAB76E78BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950B35ED-6DE9-466A-B26F-3BFAB76E78BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7ED348-DB85-4841-A68D-C06BDA7CFF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7ED348-DB85-4841-A68D-C06BDA7CFF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7ED348-DB85-4841-A68D-C06BDA7CFF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7ED348-DB85-4841-A68D-C06BDA7CFF71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7693EB5F-B03A-48D6-B73B-41B49819453A}
+	EndGlobalSection
+EndGlobal
